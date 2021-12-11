@@ -1,4 +1,4 @@
-# AssemblyCountDown
+# AssemblyCounter
 <br>My awesome Assembly program!
 <br>Run with PEP9 simulator and assembler https://computersystemsbook.com/5th-edition/pep9/ 
 <br>
